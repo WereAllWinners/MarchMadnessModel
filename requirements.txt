@@ -1,0 +1,25 @@
+# Core Libraries for Data Manipulation and Analysis
+pandas==1.5.3
+numpy==1.24.2
+
+# Visualization Libraries
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Machine Learning and Model Building
+scikit-learn==1.2.1
+xgboost==1.7.3
+tensorflow==2.11.0
+
+# Additional Tools for Data Processing and Feature Engineering
+scipy==1.10.0
+featuretools==0.31.0
+
+# Optional: Interactive Development Environment
+jupyterlab==3.6.3
+notebook==6.5.3
+
+# Optional: For API requests or web scraping (if needed later)
+requests==2.28.2
+beautifulsoup4==4.11.2
